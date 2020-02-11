@@ -1,6 +1,6 @@
 ## The keyboard layout language switcher kit for simple-keyboard. KA-EN-RU
 
-##  [Demo](http://e404r.vip/git/skls/ru-en.html)
+##  [Demo](http://e404r.vip/git/skls/en-ka.html)
 
 
 ## KA-EN:<script src="src/ka-en.js"></script>
